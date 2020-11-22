@@ -1,0 +1,74 @@
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\bin\Debug\MV Media Player.exe.config
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\bin\Debug\MV Media Player.exe
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\bin\Debug\MV Media Player.pdb
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV Media Player.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV_Media_Player.Form1.resources
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV_Media_Player.Properties.Resources.resources
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV Media Player.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV Media Player.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV Media Player.exe
+C:\Users\user\Desktop\MV media player\MV Media Player\MV Media Player\obj\Debug\MV Media Player.pdb
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\MV_Media_Player.about.resources
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Interop.AXVLC.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\Interop.AXVLC.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.xml
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.dll
+C:\Users\user\Desktop\MV media player\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.exe.config
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.exe
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.pdb
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.xml
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.about.resources
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.Form1.resources
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.Properties.Resources.resources
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.exe
+C:\Users\user\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.pdb
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.exe.config
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.exe
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\MV Media Player.pdb
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.xml
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Interop.AXVLC.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csprojResolveAssemblyReference.cache
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\Interop.AXVLC.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.ResolveComReference.cache
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.about.resources
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.Form1.resources
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV_Media_Player.Properties.Resources.resources
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.GenerateResource.Cache
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.csproj.CoreCompileInputs.cache
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.exe
+C:\Users\maharshi_17\Desktop\MV media player 16012011033, 16012011049\MV media player\MV Media Player\obj\Debug\MV Media Player.pdb
