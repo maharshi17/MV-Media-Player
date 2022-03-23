@@ -1,5 +1,5 @@
 # MV Media Player
-MV media player is a Windows-based application created in C#. Basically it's a video player which has basic functionalities that you can find in other media players. (created in March, 2018)
+MV Media Player is a Windows application created by using C#. It's a media/video player which has basic functionalities like open any video file, play, pause, stop, seek, volume control etc. (created in March, 2018)
 # Screenshots
 ![](screenshots/mv-1.PNG)
 
